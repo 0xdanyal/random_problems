@@ -20,9 +20,9 @@ function solve(words) {
 }
 
 // testing some input values
-solve([
-  "word",
-  "localization",
-  "internationalization",
-  "pneumonoultramicroscopicsilicovolcanoconiosis"
-]);
+// solve([
+//   "word",
+//   "localization",
+//   "internationalization",
+//   "pneumonoultramicroscopicsilicovolcanoconiosis"
+// ]);
